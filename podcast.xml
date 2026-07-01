@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Teologia em Missão</title>
+    <link>SUBSTITUIR: URL da pagina/site do podcast (ex.: https://seudominio.com/podcast)</link>
+    <language>pt-br</language>
+    <description>Um podcast diário (segunda a sábado) de teologia reformada e missões: devocionais, narrativas históricas da igreja, diálogos teológicos, ensino doutrinário e exposição de Salmos.</description>
+    <itunes:author>Paulo Henrique P. Cunha</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Paulo Henrique P. Cunha</itunes:name>
+      <itunes:email>ppaulohenrique@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="SUBSTITUIR: URL publica da capa do podcast, JPG/PNG quadrado, minimo 1400x1400px (obrigatorio para Spotify/Apple)" />
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Christianity" />
+    </itunes:category>
+  </channel>
+</rss>
