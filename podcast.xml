@@ -11,7 +11,7 @@
       <itunes:name>Paulo Henrique P. Cunha</itunes:name>
       <itunes:email>ppaulohenrique@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="SUBSTITUIR: URL publica da capa do podcast, JPG/PNG quadrado, minimo 1400x1400px (obrigatorio para Spotify/Apple)" />
+    <itunes:image href="https://paulohenriquecunha.github.io/teologia-missoes-feed/capa_podcast.jpg" />
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>

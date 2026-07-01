@@ -5,7 +5,7 @@
   "language": "pt-br",
   "author": "Paulo Henrique P. Cunha",
   "owner_email": "ppaulohenrique@gmail.com",
-  "image_url": "SUBSTITUIR: URL publica da capa do podcast, JPG/PNG quadrado, minimo 1400x1400px (obrigatorio para Spotify/Apple)",
+  "image_url": "https://paulohenriquecunha.github.io/teologia-missoes-feed/capa_podcast.jpg",
   "category": "Religion & Spirituality",
   "subcategory": "Christianity",
   "explicit": false
